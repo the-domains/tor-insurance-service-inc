@@ -1,0 +1,28 @@
+name: 'TOR Insurance Service, Inc.'
+favicon: null
+layout_spectrum: 0.5041691877413541
+typography_spectrum: 0.28706092666834593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6202773172408342
+  lightness: 0.5430276931729168
+  saturation: 0.7225619626697153
+  rhythmicContrast: 0.7157609059941024
+purpose: []
